@@ -6,3 +6,7 @@ https://app.infinityfree.net/register
 https://www.mediafire.com/download/mziduybkmzd8jyo
 https://www.yelinphyo.com/2020/06/facebook-guide-on-facebook.html?m=1
 git clone https://github.com/wifiphisher/wifiphisher.git
+
+https://www.yelinphyo.com/2020/07/mediafire-v422.html?m=1
+https://m.facebook.com/story.php?story_fbid=1144696602580350&id=100011200621595
+https://github.com/Cesar-HackGray/SocialSploit
